@@ -1,1 +1,1 @@
-# Gun-Detecor
+# Gun-Detector
